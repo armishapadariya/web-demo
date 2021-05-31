@@ -1,2 +1,2 @@
 # web-demo
-DSC-GEC using html and css
+DSC-GEC website demo using html and css..
